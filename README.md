@@ -39,10 +39,16 @@ huawei cloud - pendente
 azure cloud - pendente
 
 
-.tf 
-  -> oracle\
+.tf  
+  -> oracle
   -> huawei\
-  -> azure\
+  -> azure\ 
   -> aws\
 
-  
+  -> oracle => rodrigo prado
+  -> huawei => rodrigo prado
+  -> azure => alvaro
+  -> aws => a conseguir/definir
+
+cada um gera uma branch e confrontamos depois
+
