@@ -37,3 +37,12 @@ clouds
 oracle cloud - ok 
 huawei cloud - pendente
 azure cloud - pendente
+
+
+.tf 
+  -> oracle\
+  -> huawei\
+  -> azure\
+  -> aws\
+
+  
