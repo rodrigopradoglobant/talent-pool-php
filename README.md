@@ -14,6 +14,7 @@ CI/CD => integrado
 
 multi cloud
 terraform - multi cloud
+kubernetes - multi cloud
 
 SO
 debian/ubuntu
