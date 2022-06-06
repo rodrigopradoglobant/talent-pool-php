@@ -52,3 +52,4 @@ azure cloud - pendente
 
 cada um gera uma branch e confrontamos depois
 
+
